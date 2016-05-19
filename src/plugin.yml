@@ -1,0 +1,4 @@
+name: scaling-guacamole
+version: 0.1
+authors: [Wehavecookies56, Pasterian]
+main: io.github.scaling.guacamole.Main
